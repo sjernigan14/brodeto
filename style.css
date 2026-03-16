@@ -485,7 +485,7 @@ footer {
 .sister-logos img {
   height: 40px;
   width: auto;
-  opacity: 0.7;
+  opacity: 1;
   transition: opacity 0.3s ease;
 }
 
